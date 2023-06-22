@@ -6,7 +6,7 @@ server.on('listening', () => {
 
   const address = server.address()
 
-  console.log('Listining to ', 'Address: ', address.address, 'Port: ', address.port)
+  console.log('Listening to ', 'Address: ', address.address, 'Port: ', address.port)
 })
 
 server.on('message', (message, info) => { // When a message (packet) is received it runs the code below.
