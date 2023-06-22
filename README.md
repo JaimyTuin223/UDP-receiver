@@ -34,6 +34,10 @@ To deploy this project run
 - Simple UDP packet receiver.
 - Code explanation. (W.I.P)
 
+## Planned
+
+- Events (Reacting on specified msgs)
+
 
 ## Feedback
 
