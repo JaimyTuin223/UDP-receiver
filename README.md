@@ -3,12 +3,12 @@
 
 As the name suggests this code receives UDP packets. It also replies to the sender with a packet to confirm the packet was received successfully!
 
-The UDP Sender is coming soon!
+The UDP Sender can be found [here](https://github.com/JaimyTuin223/UDP-sender)
 
 
 ## Note
 
-Do note that UDP only works when both the sending and receiving code are on the same network, If you wish to send packets outside your own network you can set up Port forwarding on both routers.
+Do note that by default UDP only works when both the sending and receiving code are on the same network, If you wish to send packets outside your own network you can set up Port forwarding on both routers.
 
 
 ## Installation
@@ -31,7 +31,7 @@ To deploy this project run
 
 ## Features
 
-- Simple UDP receiver.
+- Simple UDP packet receiver.
 - Code explanation. (W.I.P)
 
 
