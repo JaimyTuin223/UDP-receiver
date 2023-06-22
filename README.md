@@ -1,7 +1,7 @@
 
 # UDP receiver
 
-As the name suggests this code receives UDP messages. It also replies to the sender with a message to confirm the packet was received successfully!
+As the name suggests this code receives UDP packets. It also replies to the sender with a packet to confirm the packet was received successfully!
 
 The UDP Sender is coming soon!
 
