@@ -8,7 +8,7 @@ As the name suggests this code receives UDP packets. It also replies to the send
 
 ## Note
 
-Do note that by default UDP only works when both the sending and receiving code are on the same network, If you wish to send packets outside your own network you can set up Port forwarding on your router.
+Do note that by default this will only when both the sending and receiving code are on the same network, If you wish to send packets outside your own network you can set up Port forwarding on your router.
 
 
 ## Installation
